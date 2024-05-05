@@ -10,6 +10,8 @@ in these two sectors. Staff preference is also important, in addition to these, 
 important. To define the service level, the "percentage of calls answered within a specific time
 limit, or even 80% of calls in less than 20s, is used as the service level criterion.
 
+In this work, we utilized pyomo with gurobi backend.
+
 ## Model
 The problem is formulated by the authors as such (refer to the paper for further information):
 
